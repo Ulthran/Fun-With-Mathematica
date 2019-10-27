@@ -25,3 +25,10 @@ Simulated trebuchet in Mathematica! Yay! Play around with changing parameters (t
 Fractals in Chaos
 
 This notebook is in its own repository but it's worth checking out.
+
+ProjectEuler.nb
+
+A notebook containing a lot of my solutions to PE problems, which I can't post because that would give away the answers
+www.projecteuler.net
+
+
