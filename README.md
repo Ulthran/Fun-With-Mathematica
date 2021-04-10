@@ -31,4 +31,6 @@ ProjectEuler.nb
 A notebook containing a lot of my solutions to PE problems, which I can't post because that would give away the answers
 www.projecteuler.net
 
+Lab 05, Lab 06, PS 06, & PS 07.nb
 
+These notebooks are from my nonlinear optoelectronic dynamics course. Some cool analysis of data from an optoelectronic Mackey-Glass feedback loop.
